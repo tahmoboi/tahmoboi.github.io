@@ -11,3 +11,9 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+Hi, I am Tahmid Hossain Bhuiyan and welcome to my world. 
+
+This is where I digitally live. 
+
+If you have any questions about these projects or my "About" section can't answer, my Linkedin or Email is one click away!

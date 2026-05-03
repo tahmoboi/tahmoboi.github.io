@@ -1,19 +1,34 @@
 ---
 title: "About"
-image: profile.jpg
+image: images/Picture_Tahmid.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/tahmoboi
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/tahmid-hossain-bhuiyan/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/tahmoboi
 ---
 
-About this blog
+I am Tahmid Hossain Bhuiyan, a rising sophomore at Sewanee:University of the South double majoring in Economics and Data Science with a minor in Business.
+
+Current work: Head of Market Research at Sewanee Young Writer's Conference.
+
+Upcoming summer: I will be working as a growth analyst intern at an ed-tech startup in Bangladesh where I will plan product growth strategies and implement them in the sphere overplap between product and marketing.
+
+My interests: (exteremely diverse) I love to sing(slow romantic genre) songs; play sports like badminton,cricket,football(I refuse to call it soccer); learn about psychology, philosophy, finance, stocks, mindset, investments, etc, etc and etc; explore new places and create contents about my day in life.
+
+My favorite quote: **"Be where your feet are"** - Nick Saban (I found it on an article in Substack)
+
+My favorite food: **Chicken Biriyani** made by my mom.
+
+My favorite color: **#edd309**
+
+My favorite movie: **Parasite**
+
+

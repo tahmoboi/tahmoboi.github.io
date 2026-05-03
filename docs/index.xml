@@ -5,66 +5,159 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Portfolio</title>
+<title>Tahmid Bhuiyan&#39;s Digital Dorm</title>
 <link>https://your-website-url.example.com/</link>
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<description>My blog built with Quarto</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 28 Apr 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Apr 2026 05:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <title>International Students: Major Choices</title>
+  <dc:creator>Tahmid Hossain Bhuiyan</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-03-data-story-5/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+<p>Major choice has been one of the most hardest and strategic decisions I have taken as an international student in the US. I believe most if not every international student struggle with their major selection. Passion vs Salary dilemma weighs highest in this decision phase.</p>
+<p>If the world removed career, ambition, goals from my life, I would choose psychology/philosophy as my major. But because the world isn’t as lenient, I chose to major in Economics and Data Science with a minor in Business because it aligned partly with my passion, job expectation, salary potential and STEM designation subject.</p>
+<p>This data story explores the major choices of international students in Sewanee, their motivations behind major and expectations after graduation with their major. Lastly, how confident they are with their major.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-03-data-story-5/screenshot5.png" class="img-fluid figure-img"></p>
+<figcaption>Primary motivation behind major choice for International Students in Sewanee</figcaption>
+</figure>
 </div>
-</div>
+<p>For internationals, STEM designated subjects which has high job possibility is the most important factor. Majority of Sewanee international students want to do grad school and become more knowledgable in their particular field of studies before they join workforce.</p>
+<p>Github Repository: <a href="https://github.com/tahmoboi/shiny_fullstack">Repo</a></p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Tue, 28 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://your-website-url.example.com/posts/2026-05-03-data-story-5/</guid>
+  <pubDate>Thu, 23 Apr 2026 05:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <title>Sewanee Utility Usage</title>
+  <dc:creator>Tahmid Hossain Bhuiyan</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-03-data-story-4/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>Doctors: Questions to understand Symptoms -&gt; Determines the Cause -&gt; Provides accurate Solutions.</p>
+<p>This data story makes you a doctor on utility usage. Sewanee, your patient, comes to you with symptoms. You ask questions like:</p>
+<ul>
+<li><p>How many gallon per person did you spend in Cannon hall in the month of march to november?</p></li>
+<li><p>Which hall had the minimum kilo watt hour(kwh) per person spent in between September and December?</p></li>
+<li><p>Did you see any unusual change in Cleveland hall for therms per person usage?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-03-data-story-4/screenshot4.png" class="img-fluid figure-img" width="1732"></p>
+<figcaption>Cleveland Hall has a sudden spike in therms per person usage in the month of April</figcaption>
+</figure>
+</div></li>
+</ul>
+<p>Depending on the answers, you figure out causes and thus eventually leading to accurate solutions.</p>
+<p>It is massively important to use energy and our resources efficiently if we want to build a sustainable world. Let’s start from our surroundings.</p>
+<p>Github Repository: <a href="https://github.com/tahmoboi/sewanee_weather">Repo</a></p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Sat, 25 Apr 2026 05:00:00 GMT</pubDate>
+  <guid>https://your-website-url.example.com/posts/2026-05-03-data-story-4/</guid>
+  <pubDate>Tue, 14 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>SDG-1 &amp; SDG-8</title>
+  <dc:creator>Tahmid Hossain Bhuiyan</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-02-data-story-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I have seen first hand how much unemployment affects a family and a country. I come from Bangladesh where poverty and unemployment are of the most crucial problems the country has to tackle.</p>
+<p>To understand more about these 2 core problems and the plans the world has to remove these problems, I delved deep into SDGs. The history, SDG 1 and 8, the full picture along with the backend reasoning behind these two problems and the future that comes if the current state continues.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-02-data-story-3/screenshot3.png" class="img-fluid figure-img" width="1200"></p>
+<figcaption>SDG Overall Progress Report</figcaption>
+</figure>
+</div>
+<p>If you want to dive deeper into SDG 1 and SDG 8, get the full picture of these 2 SDGs, here is the link you need to click: <a href="https://tahmoboi.github.io/data_story_3/">SDG 1 &amp; SDG 8 deepdive</a></p>
+<p>Github Reposotory: <a href="https://github.com/tahmoboi/data_story_3">Repo</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-02-data-story-3/</guid>
+  <pubDate>Mon, 30 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Earth Eater</title>
+  <dc:creator>Tahmid Hossain Bhuiyan</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-02-data-story-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I love to eat. From “Fuchka” of Bangladeshi cuisine, to “Pad Thai” rice-noodles of Thai cuisine, I love food. If I share my food with you, you are either the closest person to my heart or you put a gun on my head.</p>
+<p>Just like me(not to my extent), I am pretty sure everyone loves food. However, there are 8 billion people and the earth is only one planet. We are multiplying, eating more which leads to more usage and need for agricultural land.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-02-data-story-2/screenshot2.png" class="img-fluid figure-img" width="1200"></p>
+<figcaption>Agricultural Land Increase In 5 continents</figcaption>
+</figure>
+</div>
+<p>Question arises: “How are we getting these agricultural lands?”</p>
+<p>Simple Answer: Deforestation!</p>
+<p>Eventually leading to Global Warming and Climate Change.</p>
+<p>This data story focuses on this exact storyline with compact data evidence. This doesn’t mean we should stop eating though (I will die not from hunger but from the realization that I won’t be able to taste all of the different cuisines the world has to offer), it means:</p>
+<p><strong>WE SHOULD EAT SUSTAINABLY, STOP WASTAGE AND BE MORE AWARE OF OUR RESPONSIBILITY.</strong></p>
+<p>Story Site: <a href="https://tahmoboi.github.io/earth_eater/">Earth Eater</a></p>
+<p>Github Repository: <a href="https://github.com/tahmoboi/earth_eater">Repo</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-02-data-story-2/</guid>
+  <pubDate>Tue, 03 Mar 2026 06:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Energy race that determines humanity’s survival</title>
+  <dc:creator>Tahmid Hossain Bhuiyan</dc:creator>
+  <link>https://your-website-url.example.com/posts/2026-05-02-data-story-1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Whenever there is a question of Humanity and it’s survival, I am intrigued. Even rpg games like Pokemon where you have to play the role of a Pokemon trainer, catch Pokemon and build your team in order to save the world from monstrous ones(Pokemons) interests me the most.</p>
+<p>Every country in this world today are trying to become a developed country. Whenever you come across the word ‘developed country’ intuitively you would think tall buildings, massive industries, money flowing left and right. The key proprietor towards this development is actually energy, especially carbon energy. However, this comes with a lot of consequence.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://your-website-url.example.com/posts/2026-05-02-data-story-1/screenshot1.png" class="img-fluid figure-img" width="1652"></p>
+<figcaption>Growth correlates with carbon emissions for some of the top developed/developing countries.</figcaption>
+</figure>
+</div>
+<p>This data story focuses on how carbon energy has gone hand in hand with economic development but how it is not sustainable. The only way to come out of this carbon emission crisis is massive use of renewable energy. Although fossil fuels/carbon energy still dominate today, how long they will dominate and take away humanity’s trace from the world depends on how fast we start implementing renewable, clean energy.</p>
+<p>Story Site: <a href="https://tahmoboi.github.io/energy/">Story of Humanity’s Survival</a></p>
+<p>Github repo: <a href="https://github.com/tahmoboi/energy">Repo</a></p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/2026-05-02-data-story-1/</guid>
+  <pubDate>Thu, 12 Feb 2026 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

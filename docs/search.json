@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I am Tahmid Hossain Bhuiyan, a rising sophomore at Sewanee:University of the South double majoring in Economics and Data Science with a minor in Business.\nCurrent work: Head of Market Research at Sewanee Young Writer’s Conference.\nUpcoming summer: I will be working as a growth analyst intern at an ed-tech startup in Bangladesh where I will plan product growth strategies and implement them in the sphere overplap between product and marketing.\nMy interests: (exteremely diverse) I love to sing(slow romantic genre) songs; play sports like badminton,cricket,football(I refuse to call it soccer); learn about psychology, philosophy, finance, stocks, mindset, investments, etc, etc and etc; explore new places and create contents about my day in life.\nMy favorite quote: “Be where your feet are” - Nick Saban (I found it on an article in Substack)\nMy favorite food: Chicken Biriyani made by my mom.\nMy favorite color: #edd309\nMy favorite movie: Parasite"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -25,6 +25,41 @@
     "href": "index.html",
     "title": "Tahmid’s blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 28, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 25, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Hi, I am Tahmid Hossain Bhuiyan and welcome to my world.\nThis is where I digitally live.\nIf you have any questions about these projects or my “About” section can’t answer, my Linkedin or Email is one click away!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInternational Students: Major Choices\n\n\n\n\n\n\n\n\n\n\n\nApr 23, 2026\n\n\nTahmid Hossain Bhuiyan\n\n\n\n\n\n\n\n\n\n\n\n\nSewanee Utility Usage\n\n\n\n\n\nThis data story makes you a doctor specializing in Utility Usage while Sewanee is your patient.\n\n\n\n\n\nApr 14, 2026\n\n\nTahmid Hossain Bhuiyan\n\n\n\n\n\n\n\n\n\n\n\n\nSDG-1 & SDG-8\n\n\n\n\n\n\n\n\n\n\n\nMar 30, 2026\n\n\nTahmid Hossain Bhuiyan\n\n\n\n\n\n\n\n\n\n\n\n\nEarth Eater\n\n\n\n\n\n\n\n\n\n\n\nMar 3, 2026\n\n\nTahmid Hossain Bhuiyan\n\n\n\n\n\n\n\n\n\n\n\n\nEnergy race that determines humanity’s survival\n\n\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nTahmid Hossain Bhuiyan\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-05-02-data-story-1/index.html",
+    "href": "posts/2026-05-02-data-story-1/index.html",
+    "title": "Energy race that determines humanity’s survival",
+    "section": "",
+    "text": "Whenever there is a question of Humanity and it’s survival, I am intrigued. Even rpg games like Pokemon where you have to play the role of a Pokemon trainer, catch Pokemon and build your team in order to save the world from monstrous ones(Pokemons) interests me the most.\nEvery country in this world today are trying to become a developed country. Whenever you come across the word ‘developed country’ intuitively you would think tall buildings, massive industries, money flowing left and right. The key proprietor towards this development is actually energy, especially carbon energy. However, this comes with a lot of consequence.\n\n\n\nGrowth correlates with carbon emissions for some of the top developed/developing countries.\n\n\nThis data story focuses on how carbon energy has gone hand in hand with economic development but how it is not sustainable. The only way to come out of this carbon emission crisis is massive use of renewable energy. Although fossil fuels/carbon energy still dominate today, how long they will dominate and take away humanity’s trace from the world depends on how fast we start implementing renewable, clean energy.\nStory Site: Story of Humanity’s Survival\nGithub repo: Repo"
+  },
+  {
+    "objectID": "posts/2026-05-02-data-story-2/index.html",
+    "href": "posts/2026-05-02-data-story-2/index.html",
+    "title": "Earth Eater",
+    "section": "",
+    "text": "I love to eat. From “Fuchka” of Bangladeshi cuisine, to “Pad Thai” rice-noodles of Thai cuisine, I love food. If I share my food with you, you are either the closest person to my heart or you put a gun on my head.\nJust like me(not to my extent), I am pretty sure everyone loves food. However, there are 8 billion people and the earth is only one planet. We are multiplying, eating more which leads to more usage and need for agricultural land.\n\n\n\nAgricultural Land Increase In 5 continents\n\n\nQuestion arises: “How are we getting these agricultural lands?”\nSimple Answer: Deforestation!\nEventually leading to Global Warming and Climate Change.\nThis data story focuses on this exact storyline with compact data evidence. This doesn’t mean we should stop eating though (I will die not from hunger but from the realization that I won’t be able to taste all of the different cuisines the world has to offer), it means:\nWE SHOULD EAT SUSTAINABLY, STOP WASTAGE AND BE MORE AWARE OF OUR RESPONSIBILITY.\nStory Site: Earth Eater\nGithub Repository: Repo"
+  },
+  {
+    "objectID": "posts/2026-05-02-data-story-3/index.html",
+    "href": "posts/2026-05-02-data-story-3/index.html",
+    "title": "SDG-1 & SDG-8",
+    "section": "",
+    "text": "I have seen first hand how much unemployment affects a family and a country. I come from Bangladesh where poverty and unemployment are of the most crucial problems the country has to tackle.\nTo understand more about these 2 core problems and the plans the world has to remove these problems, I delved deep into SDGs. The history, SDG 1 and 8, the full picture along with the backend reasoning behind these two problems and the future that comes if the current state continues.\n\n\n\nSDG Overall Progress Report\n\n\nIf you want to dive deeper into SDG 1 and SDG 8, get the full picture of these 2 SDGs, here is the link you need to click: SDG 1 & SDG 8 deepdive\nGithub Reposotory: Repo"
+  },
+  {
+    "objectID": "posts/2026-05-03-data-story-4/index.html",
+    "href": "posts/2026-05-03-data-story-4/index.html",
+    "title": "Sewanee Utility Usage",
+    "section": "",
+    "text": "Doctors: Questions to understand Symptoms -&gt; Determines the Cause -&gt; Provides accurate Solutions.\nThis data story makes you a doctor on utility usage. Sewanee, your patient, comes to you with symptoms. You ask questions like:\n\nHow many gallon per person did you spend in Cannon hall in the month of march to november?\nWhich hall had the minimum kilo watt hour(kwh) per person spent in between September and December?\nDid you see any unusual change in Cleveland hall for therms per person usage?\n\n\n\nCleveland Hall has a sudden spike in therms per person usage in the month of April\n\n\n\nDepending on the answers, you figure out causes and thus eventually leading to accurate solutions.\nIt is massively important to use energy and our resources efficiently if we want to build a sustainable world. Let’s start from our surroundings.\nGithub Repository: Repo"
+  },
+  {
+    "objectID": "posts/2026-05-03-data-story-5/index.html",
+    "href": "posts/2026-05-03-data-story-5/index.html",
+    "title": "International Students: Major Choices",
+    "section": "",
+    "text": "Major choice has been one of the most hardest and strategic decisions I have taken as an international student in the US. I believe most if not every international student struggle with their major selection. Passion vs Salary dilemma weighs highest in this decision phase.\nIf the world removed career, ambition, goals from my life, I would choose psychology/philosophy as my major. But because the world isn’t as lenient, I chose to major in Economics and Data Science with a minor in Business because it aligned partly with my passion, job expectation, salary potential and STEM designation subject.\nThis data story explores the major choices of international students in Sewanee, their motivations behind major and expectations after graduation with their major. Lastly, how confident they are with their major.\n\n\n\nPrimary motivation behind major choice for International Students in Sewanee\n\n\nFor internationals, STEM designated subjects which has high job possibility is the most important factor. Majority of Sewanee international students want to do grad school and become more knowledgable in their particular field of studies before they join workforce.\nGithub Repository: Repo"
   }
 ]

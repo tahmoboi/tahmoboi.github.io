@@ -2,8 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/2026-05-03-data-story-5/index.html",
+      "/posts/2026-05-03-data-story-4/index.html",
+      "/posts/2026-05-02-data-story-3/index.html",
+      "/posts/2026-05-02-data-story-2/index.html",
+      "/posts/2026-05-02-data-story-1/index.html"
     ]
   }
 ]
